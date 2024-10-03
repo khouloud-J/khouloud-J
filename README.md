@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @khouloud-J
-- 👀 I’m interested in Web development , design
-- 🌱 I’m currently learning Angular , ionic , python 
+
 - 📫 How to reach me : jridikhouloud200@gmail.com
 
 <!---
